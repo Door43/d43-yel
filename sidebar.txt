@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yel:home|Door43 (yel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yel|d43-yel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yel/archive/master.zip|d43-yel.zip]]
+
+**Recent Changes**
+{{changes>ns = yel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yel|Ethnologue data]]
+
